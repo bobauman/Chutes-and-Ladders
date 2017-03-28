@@ -9,6 +9,7 @@ public class Test {
 		while(game.getProgress()){
 			bo.spin(game);
 			joe.spin(game);
+			String joey = null;
 		}
 	}
 }
